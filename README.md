@@ -1,2 +1,2 @@
-# PruebasGitGitHub
-Repositorio de prueba para seguir practicando, curso Git y GitHub
+# PruebasGitGitHub 
+Repositorio de prueba, REPOSITORIO PARA PRACTICAR GIT PULL
